@@ -47,6 +47,7 @@ public:
     }
 };
 
+
 int main(int argc, char *argv[]) {
     QCoreApplication app(argc, argv); // Inicializa la aplicación de Qt
 
